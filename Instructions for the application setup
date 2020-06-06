@@ -1,0 +1,6 @@
+To run this application the user should have node.js,mongodb connectivity.
+Install node.js in your system.
+Open the terminal and cd into the project folder and install the required dependancies used in the app.js.(Eg:express,mongoose,mongodb,lodash,ejs,body-parser.etc.,).
+Run node app.js 
+The server would start on port 3000.
+In the web browser by typing localhost:3000 the application is opened.
