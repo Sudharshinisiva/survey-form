@@ -1,0 +1,46 @@
+h1{
+    font-family: 'Merienda', cursive;
+      text-align: center;
+      padding: 50px;
+      color: #DEF2F9;
+}
+.fbform{
+  background-color: #D0D3D4;
+  font-family: 'Patrick Hand', cursive;
+  border-radius: 5px;
+  font-size: 21px;
+  margin-left: 100px;
+}
+
+.col-sm-3{
+  margin-left: 20px;
+  margin-top: 20px;
+  text-align: center;
+  }
+  .col-sm-6{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.col-sm-10{
+  margin-left: 400px;
+  margin-bottom: 30px;
+}
+
+.boxbg{
+  background-color: #D0D3D4;
+  font-family: 'Patrick Hand', cursive;
+  border-radius: 10px;
+  font-size: 30px;
+  width: 600px;
+  margin-top: 230px;
+  margin-left: 400px;
+}
+.btnok{
+  margin-left: 270px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.labelres{
+  margin-left: 90px;
+  margin-top: 30px;
+}
